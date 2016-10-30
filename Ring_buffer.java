@@ -1,11 +1,11 @@
-/* File: IntDeque.java
+/* File: Ring_buffer.java
  * Date: 10/3/16
  * Author: Olivia Liberti (oliberti@bu.edu)
  * Purpose: Creates a Deque ADT using a circular-buffer technique.
  * Implements Dequeable
  */
 
-public class IntDeque implements Dequeable {
+public class Ring_buffer implements Dequeable {
     
     private int SIZE = 10;      //initial size of the array
     
