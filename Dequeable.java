@@ -1,7 +1,7 @@
 /* File: Dequeable.java
  * Date: 10/3/16
  * Author: Olivia Liberti (oliberti@bu.edu)
- * Purpose: Interface, implemented by IntDeque
+ * Purpose: Interface, implemented by Ring_buffer
  */
 
 public interface Dequeable {
