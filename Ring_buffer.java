@@ -152,7 +152,7 @@ public class Ring_buffer implements Dequeable {
     
     public static void main(String[] args) {
         
-        Dequeable D = new IntDeque();  
+        Dequeable D = new Ring_buffer();  
         System.out.println("\n[1] First test toString on empty deque... Should print out:"); 
         System.out.println("[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]  length: 10  size: 0  front: 0  next: 0"); 
         System.out.println(D); 
